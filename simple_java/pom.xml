@@ -23,7 +23,7 @@
    <scm>
         <connection>scm:git:https://github.com/revathimgtl/mvn_repo.git</connection>
         <developerConnection>scm:git:https://github.com/revathimgtl/mvn_repo.git</developerConnection>
-     <tag>HEAD</tag>
+     <tag>Feature1.1</tag>
   </scm>
 	<build>
     <plugins>
